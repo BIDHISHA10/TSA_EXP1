@@ -31,5 +31,6 @@ plt.show()
 <img width="1361" height="252" alt="image" src="https://github.com/user-attachments/assets/90662abf-a0d3-483a-9246-0d130f99f3ab" />
 
 <img width="847" height="625" alt="image" src="https://github.com/user-attachments/assets/51cde68b-1997-4b8b-a06d-a05dccd38746" />
+
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
